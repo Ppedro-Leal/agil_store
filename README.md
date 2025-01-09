@@ -79,13 +79,6 @@ python main.py
 - **ttkbootstrap**
 - **JSON**
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
-
-
-
 ---
 
 Se tiver dúvidas ou problemas, entre em contato!
